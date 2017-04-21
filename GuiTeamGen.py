@@ -246,14 +246,13 @@ def done():
         jjg=listbox.insert(END, 'JG: ' + random.choice(list(open('Sup.txt'))))
     elif jc=="Tank":
         jjg=listbox.insert(END, 'JG: ' + random.choice(list(open('Sup.txt'))))        
-
-    else:
-        ttop
-        mmid
-        aadc
-        ssup
-        jjg
-
+ 
+    ttop
+    mmid
+    aadc
+    ssup
+    jjg
+    listbox.insert(END, '')
  
 textframe1 = LabelFrame(root, labelanchor=N, text="ALL LANE", padx=10, pady=5)
 textframe2 = LabelFrame(root, labelanchor=N, text="TOP LANE", padx=10, pady=5)
