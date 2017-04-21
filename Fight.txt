@@ -1,0 +1,66 @@
+Aatrox
+Aurelion Sol
+Blitzcrank
+Camille
+Darius
+Diana
+Dr. Mundo
+Ekko
+Elise
+Fiora
+Fizz
+Gangplank
+Garen
+Gnar
+Gragas
+Hecarim
+Illaoi
+Irelia
+Jarvan IV
+Jax
+Jayce
+Kayle
+Kha'Zix
+Kled
+Lee Sin
+Malphite
+Master Yi
+Mordekaiser
+Nasus
+Nautilus
+Nidalee
+Nocturne
+Nunu
+Olaf
+Pantheon
+Poppy
+Quinn
+Rammus
+Rek'Sai
+Renekton
+Rengar
+Riven
+Rumble
+Ryze
+Sejuani
+Shyvana
+Singed
+Sion
+Skarner
+Swain
+Talon
+Taric
+Thresh
+Trundle
+Tryndamere
+Udyr
+Urgot
+Vi
+Volibear
+Warwick
+Wukong
+Xin Zhao
+Yasuo
+Yorick
+Zac
+Zed
